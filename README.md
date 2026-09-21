@@ -62,13 +62,13 @@ Individuals and families often struggle to maintain vaccination records, remembe
 ## 🛠️ Technology Stack
 Technology                      -      Purpose
 
-React.js                        -       Frontend development
-Node.js                         -      Backend runtime
-Express.js                      -      Backend API development
-Firebase Authentication         -      User authentication
-Firebase Firestore              -      Database
-Firebase Storage                -      Document and image storage
-Python                          -      OCR and AI services
-EasyOCR / Tesseract             -      Text extraction
-Google Maps API (Optional)      -      Healthcare center location
-Git & GitHub                    -      0 Version control
+React.js                        -       Frontend development,
+Node.js                         -      Backend runtime,
+Express.js                      -      Backend API development,
+Firebase Authentication         -      User authentication,
+Firebase Firestore              -      Database,
+Firebase Storage                -      Document and image storage,
+Python                          -      OCR and AI services,
+EasyOCR / Tesseract             -      Text extraction,
+Google Maps API (Optional)      -      Healthcare center location,
+Git & GitHub                    -      0 Version control.
